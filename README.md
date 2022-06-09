@@ -71,10 +71,27 @@
  
 ![image](https://user-images.githubusercontent.com/61559275/162496637-2edcce8c-d10f-46f4-b1a4-4ec8501e5983.png)
 
+ <p>
+  Puis , on ajoute la notion @Qualifier dans le fichier IMetier.java qui prmmet d'injecter l'istance qu'on veut: -Pour injecté l'istance dao
+ </p>
  
- 
+![image](https://user-images.githubusercontent.com/61559275/172963614-53137e22-95bc-422b-bf53-09fd50165f5c.png)
 
- 
+<p> Voici le résultat après l'execution </p>
+
+![image](https://user-images.githubusercontent.com/61559275/172963412-99c91f51-3df2-4656-9c0d-0d71aa425a26.png)
+
+<p> Et finalement , on a fait l'injection par constructeur </p>
+
+![image](https://user-images.githubusercontent.com/61559275/172963658-bd26782e-5cb5-46fb-a38b-490dbc37043f.png)
+
+<p> Voici le resultat après l'execution </p>
+
+![image](https://user-images.githubusercontent.com/61559275/172963742-7393bb2d-8a1c-498f-96ab-03400ed5c0aa.png)
+
+
+
+
  
  
  
